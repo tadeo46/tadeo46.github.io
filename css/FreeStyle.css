@@ -1,0 +1,111 @@
+h1{
+	font-family: sans-serif;
+    letter-spacing: 0.03rem;
+	color: #454138;
+}
+h2{
+	font-family: sans-serif;
+    letter-spacing: 0.03rem;
+	color: #454138;
+}
+h3{
+	font-family: sans-serif;
+    letter-spacing: 0.03rem;	
+	font-weight:lighter;
+	color: #454138;
+	border: solid #454138;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.redsocial{
+	font-family: sans-serif;
+    letter-spacing: 0.03rem;
+	color: #454138;
+}
+
+p{
+	font-family: helvetica;
+    letter-spacing: 0.03rem;
+    font-weight: lighter;
+    color: #454138;
+}
+
+body{
+	background-color: #dcd8c0;
+}
+
+.titulopri{
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	color: #454138;
+}
+.Contacto{
+	border: solid #454138;
+	font-family: helvetica;
+	font-weight: lighter;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.descripcion{
+	border: solid #454138;
+	font-family: helvetica;
+	font-weight: lighter;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.educacion{
+	border: solid #454138;
+	font-family: helvetica;
+	font-weight: lighter;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.exp{
+	border: solid #454138;
+	font-family: helvetica;
+	font-weight: lighter;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.habilidadestitulo{
+	border: solid #454138;
+	font-family: helvetica;
+	text-align: center;
+	font-weight: lighter;
+	border-width: 0.1rem 0;
+	padding: 0.1rem 1rem;
+}
+.centrar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+li{
+	font-family: helvetica;
+    letter-spacing: 0.03rem;
+    font-weight: lighter;
+    color: #454138;
+}
+ol{
+	font-family: helvetica;
+    letter-spacing: 0.03rem;
+    font-weight: lighter;
+    color: #454138;
+}
+td{
+	font-family: sans-serif;
+    letter-spacing: 0.03rem;
+    font-weight: lighter;
+    color: #454138;
+}
+tr{
+	font-family: helvetica;
+    letter-spacing: 0.03rem;
+    font-weight: lighter;
+    color: #454138;
+}
+
+
+
