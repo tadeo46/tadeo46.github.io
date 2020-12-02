@@ -1,0 +1,77 @@
+h1{
+	text-align: center;
+	color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+h2{
+	text-align: center;
+	color: white;
+}
+h3{
+	text-algin: center;
+	color: white;
+}
+h4{
+	text-align: center;
+	color: white;
+}
+h5{
+	text-align: center;
+	color: white;
+}
+td{
+	color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+tr{
+	color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+
+body{
+	background-color: #003153;
+}
+a{
+	color:white;
+}
+.inglescolor{
+	border: 1;
+	background-color: #702963;
+	border-color: #702963;
+	color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+.lidercolor{
+	background-color: #f6b511;
+	color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+.formulacioncolor{
+	 background-color: 	#C21807;
+	 color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+.lenguajecolor{
+	background-color: #FF4F00;
+	 color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+.programacioncolor{
+	background-color: #006600;
+	 color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}
+.ingenieriacolor{
+	 background-color: 	#1B1E23;
+	  color: white;
+	font-family:  helvetica;
+	font-weight: lighter;
+}

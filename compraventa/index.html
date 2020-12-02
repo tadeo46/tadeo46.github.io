@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tienda</title>
+        <meta charset="utf-8">
+        <script src="script.js"></script>
+        <link rel="stylesheet" type="text/css" href="FreeStyle.css">
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+            <div class="datos">
+                <label>Producto: </label><br>
+                <select id="productos">
+                    <option value="producto1">Tortillas</option>
+                    <option value="producto2">Coca de la chida</option>
+                    <option value="producto3">Huevo con migas</option>
+                    <option value="producto4">Huevo con tocino</option>
+                    <option value="producto5">Ropa de cuidado con el perro</option>
+                    <option value="producto6">Disco de cartel de santa</option>
+                    <option value="producto7">Ferrocaril</option>
+                    <option value="producto8">Victoria 2 </option>
+                </select>
+                <br><br>
+                <label>Precio: </label><br>
+                <textarea id="precio"></textarea>
+                <br><br>
+                <label>Cantidad: </label><br>
+                <textarea id="cantidad"></textarea>
+                <br><br>
+                <button id="agregar" class="boton" onclick="agregar();">Agregar</button>
+		         <button id="eliminar" class="boton" onclick="agregar();">Eliminar</button>
+		     	 <button id="modificar" class="boton" onclick="agregar();">Modificar</button>
+                <br><br><br>
+                <table id="tabla">
+                    <thead>
+                        <tr>
+                            <th>Numero: </th>
+                            <th>Producto: </th>
+                            <th>Precio Unitario: </th>
+                            <th>Unidades: </th>
+                            <th>Monto: </th>
+                        </tr>
+                    </thead>
+                    <tbody id="lista">
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th colspan="4">Subtotal: </th>
+                            <th id="montosubtotal"></th>
+                        </tr>
+                        <tr>
+                            <th colspan="4">IVA: </th>
+                            <th id="montoiva"></th>
+                        </tr>
+                        <tr>
+                            <th colspan="4">Total a pagar: </th>
+                            <th id="montototal"></th>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+            <div id="ejemplo"></div>
+            <br><br>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>

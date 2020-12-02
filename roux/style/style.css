@@ -1,0 +1,27 @@
+body{
+    width: 700px;
+    margin: auto;
+
+}
+
+.principal{
+    background-color: #ffffff;
+}
+
+header{
+    background-color: #000000;
+    color: white;
+    display: flex;
+}
+
+header img{
+    width: 20%;
+}
+
+header>p{
+    width: 30%;
+}
+
+header div{
+    width: 50%;
+}
